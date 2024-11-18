@@ -1,4 +1,8 @@
 # app-dev
 My first repository
-That is so funny! 😂
-So good movie 👩‍🦲
+	{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+ 
